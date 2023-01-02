@@ -1,6 +1,6 @@
 ### Hi Folks 👋
 
-Student Manegement System using REST api backend using springboot.
+This is a Student Manegement System using REST api backend using springboot framework.
 
 ### Features
 
